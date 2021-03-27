@@ -1,0 +1,67 @@
+,0
+language,en-US
+region,US
+quoteType,EQUITY
+quoteSourceName,Delayed Quote
+triggerable,False
+currency,BRL
+exchange,SAO
+shortName,COPEL       PNB EB  N1
+longName,Companhia Paranaense de Energia - COPEL
+messageBoardId,finmb_392996
+exchangeTimezoneName,America/Sao_Paulo
+exchangeTimezoneShortName,BRT
+gmtOffSetMilliseconds,-10800000
+market,br_market
+esgPopulated,False
+firstTradeDateMilliseconds,946900800000
+priceHint,2
+regularMarketChange,0.11000013
+regularMarketChangePercent,1.6011665
+regularMarketTime,1616789529
+regularMarketPrice,6.98
+regularMarketDayHigh,7.01
+regularMarketDayRange,6.87 - 7.01
+regularMarketDayLow,6.87
+regularMarketVolume,10001700
+regularMarketPreviousClose,6.87
+bid,6.96
+ask,6.97
+bidSize,0
+askSize,0
+fullExchangeName,Sao Paolo
+financialCurrency,BRL
+regularMarketOpen,6.89
+averageDailyVolume3Month,14596120
+averageDailyVolume10Day,16468612
+fiftyTwoWeekLowChange,2.132
+fiftyTwoWeekLowChangePercent,0.43976897
+fiftyTwoWeekRange,4.848 - 7.677
+fiftyTwoWeekHighChange,-0.697
+fiftyTwoWeekHighChangePercent,-0.090790674
+fiftyTwoWeekLow,4.848
+fiftyTwoWeekHigh,7.677
+earningsTimestamp,1616072400
+earningsTimestampStart,1620846000
+earningsTimestampEnd,1621278000
+trailingAnnualDividendRate,0.969
+trailingPE,4.8913803
+trailingAnnualDividendYield,0.14104803
+epsTrailingTwelveMonths,1.427
+epsForward,5.48
+sharesOutstanding,1282979968
+bookValue,7.294
+fiftyDayAverage,6.4625835
+fiftyDayAverageChange,0.5174165
+fiftyDayAverageChangePercent,0.08006341
+twoHundredDayAverage,6.66391
+twoHundredDayAverageChange,0.3160901
+twoHundredDayAverageChangePercent,0.04743313
+marketCap,19101118464
+forwardPE,1.2737226
+priceToBook,0.9569509
+sourceInterval,15
+exchangeDataDelayedBy,0
+tradeable,False
+marketState,POSTPOST
+symbol,CPLE6.SA
